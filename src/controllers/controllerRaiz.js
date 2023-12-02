@@ -32,7 +32,7 @@ module.exports = {
                             <h1>Servidor backend hospedado no Reder.com</h1>
                             <br>
                             <h3>Configurações:</h3>
-                            <p>baseURL : 'https://backend-pg-neon.onrender.com'</p>
+                            <p>baseURL : 'https://crud-tst.onrender.com/'</p>
                             <br>
                             <h3>Tabeblas</h3>
                             <table>
